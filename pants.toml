@@ -1,5 +1,5 @@
 [GLOBAL]
-pants_version = "2.15.0.dev4"
+pants_version = "2.16.0.dev0"
 backend_packages.add = [
   "pants.backend.experimental.go",
   #"pants.backend.experimental.go.debug_goals",
