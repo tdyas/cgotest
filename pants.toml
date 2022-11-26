@@ -2,7 +2,7 @@
 pants_version = "2.16.0.dev0"
 backend_packages.add = [
   "pants.backend.experimental.go",
-  #"pants.backend.experimental.go.debug_goals",
+  "pants.backend.shell",
 ]
 
 [source]
