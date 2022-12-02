@@ -1,4 +1,4 @@
-module github.com/pantsbuild/cgotest
+module github.com/tdyas/pants-go-testing
 
 go 1.17
 
