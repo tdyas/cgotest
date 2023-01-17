@@ -15,3 +15,6 @@ cgo_enabled = true
 
 [anonymous-telemetry]
 enabled = false
+
+[environments-preview.names]
+docker = "//:docker_env"
