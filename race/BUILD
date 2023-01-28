@@ -6,5 +6,6 @@ experimental_test_shell_command(
   name="racy_test",
   tools=["grep"],
   execution_dependencies=[":racy", ":racy_test_src"],
+  workdir="race",
   command="./test.sh",
 )
